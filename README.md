@@ -21,7 +21,7 @@ This project showcases the development of a Library Management System powered by
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![ERD](./ERD%20map.png)
 
 - **Database Creation**: Created a database named `Library_sql_project`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -426,5 +426,6 @@ This project demonstrates the application of SQL skills in creating and managing
 **Taoufik Oulahcen**  
 _Data Analyst | Power BI | SQL | Excel_  
 _MOROCCO, Casablanca city_
+
 
 
